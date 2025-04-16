@@ -1,0 +1,47 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.vscode/
+
+# Rider / JetBrains
+.idea/
+
+# Visual Studio Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet Packages
+*.nupkg
+packages/
+*.snupkg
+
+# Logs
+*.log
+
+# Others
+*.vs/
+_ReSharper*/
+*.resharper
+
+# Publish output
+publish/
+
+# dotenv environment files
+.env
+.env.*
+
+# App configuration
+appsettings.json
+appsettings.*.json
